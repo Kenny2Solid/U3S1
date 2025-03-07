@@ -1,8 +1,8 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "U3S1",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Validation.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
